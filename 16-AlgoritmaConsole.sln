@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-AlgoritmaConsole", "16-AlgoritmaConsole\16-AlgoritmaConsole.csproj", "{9670E723-7803-4D25-A2DD-F1645FF51AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9670E723-7803-4D25-A2DD-F1645FF51AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9670E723-7803-4D25-A2DD-F1645FF51AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9670E723-7803-4D25-A2DD-F1645FF51AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9670E723-7803-4D25-A2DD-F1645FF51AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCB8EC9-E18F-4AA2-AD18-6EFB608AE4DA}
+	EndGlobalSection
+EndGlobal
